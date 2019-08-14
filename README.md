@@ -1,11 +1,11 @@
-<a href="https://fpinder.github.io/Portfolio/"><img src="https://github.com/fpinder/TrainScheduler/blob/master/assests/images/schedule.jpg" alt="Train Scheduler"></a>
+<a href="https://fpinder.github.io/Portfolio/"><img src="https://github.com/fpinder/Portfolio/blob/master/images/Portfolio.JPG" alt="Portfolio"></a>
 
 # Portfolio!!!
 
 
 * js **The  website station.** The information* 
 
-T, **takes a value from a user input box and adds it to the topics array the** Allow e.
+T, **takes a** Allow e.
 
 `Have ` **and be on time t** `with up to date information`.
 
